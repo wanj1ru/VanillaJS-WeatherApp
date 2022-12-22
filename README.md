@@ -1,0 +1,2 @@
+# VanillaJS-WeatherApp
+Weather Application
